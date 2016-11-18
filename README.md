@@ -1,5 +1,7 @@
 # Pixelant developer resources (developer_resources)
 
+[![Release](https://img.shields.io/github/release/pixelant/developer_resources.svg?style=flat-square)](https://github.com/pixelant/developer_resources/releases)
+
 This repository contains developer resources based on Pixelant's rule sets. 
 
 ## Resources
