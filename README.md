@@ -1,4 +1,4 @@
-# developer-resources
+# Pixelant developer resources (developer_resources)
 
 This repository contains developer resources based on Pixelant's rule sets. 
 
