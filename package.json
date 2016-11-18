@@ -1,0 +1,12 @@
+{
+  "name": "developer_resources",
+  "version": "0.0.1",
+  "description": "Pixelant developer resources",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixelant/developer_resources.git"
+  },
+  "author": "Pixelant",
+  "license": "ISC",
+  "homepage": "https://github.com/pixelant/developer_resources"
+}
